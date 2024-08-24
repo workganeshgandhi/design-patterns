@@ -35,3 +35,14 @@ A design pattern is a general repeatable/reusable solution to a commonly occurri
 - Template Method
 - Visitor
 
+## Backend communication design patterns
+1. Request response
+2. push
+3. short polling
+4. long polling
+5. Server Sent Events
+6. Publish Subscribe(Pub/Sub)
+7. Multiplexing and Demultiplexing
+8. Stateful and Stateless
+9. Sidecart pattern
+
